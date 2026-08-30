@@ -1,5 +1,5 @@
-let age=18;
-if(age>=17)
+let age=21;
+if(age>=20)
 {
-    console.log("i am adult");
+    console.log("am adult");
 }
