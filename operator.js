@@ -66,8 +66,8 @@ a!==b true*/
 
 
 //logical operator
-1) && AND operator
+/*1) && AND operator
 2) || OR operator
-3) ! NOT operator
+3) ! NOT operator*/
 
 
