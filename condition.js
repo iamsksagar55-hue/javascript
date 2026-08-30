@@ -1,5 +1,5 @@
-let age=21;
-if(age>=20)
-{
-    console.log("am adult");
+let a=1;
+let b=2;
+if (a=b){
+console.log(equal);    
 }
