@@ -7,6 +7,6 @@ if(age>=22)
 let carttotal=1200;
 if(carttotal>=2000){
     console.log("you get 10% discount");
-}esle{
+}else{
     console.log("spend additional amnt to get discount")
 }
