@@ -45,7 +45,7 @@ if (temp >= 35) {
 
 
 //************SWITCH LOGIC***********
-let role="admin";
+/*let role="admin";
 switch(role){
     case"admin":
     console.log("you have full access");
@@ -59,3 +59,28 @@ switch(role){
     default:
     console.log("you have edit recognized")
 }
+output let role="admin"; you have full access*/
+
+//AND AND Operator &&
+/*let num =10;
+if(num%2==0 && num!==0){
+    console.log("the no. is even");
+}else{
+    console.log("number is odd")
+}
+output-- the no. is even*/
+/*let username = "sagar";
+let password = "123";
+
+if (username == "sagar" && password == "1234") {
+    console.log("Login Successful");
+}else{
+    console.log("login invalid");
+}
+output-- login invalid*/
+
+//ternary operator
+/*let age = 11;
+let status =age >= 18?"adult":"minor" ;
+console.log(status);
+output---Minor*/
