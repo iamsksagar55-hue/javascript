@@ -67,11 +67,42 @@ output--
 8
 6
 4
-2*/
+2
 
 let result="";
 for(i=10;i>=0;i=i-2)
 {result += i + " ";}
 console.log(result)
 
+*/
 
+/*
+let i=1;
+while(i<=10){
+    console.log(i);
+    i++;
+}
+
+output 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10*/
+/*
+i=1;
+while(i<=5){
+    console.log("javascript");
+    i++
+}
+
+javascript
+javascript
+javascript
+javascript
+javascript   */
